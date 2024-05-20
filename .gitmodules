@@ -1,0 +1,9 @@
+[submodule "deps/sha-2"]
+	path = deps/sha-2
+	url = https://github.com/amosnier/sha-2
+[submodule "deps/micro-ecc"]
+	path = deps/micro-ecc
+	url = https://github.com/kmackay/micro-ecc
+[submodule "deps/b64.c"]
+	path = deps/b64.c
+	url = https://github.com/jwerle/b64.c

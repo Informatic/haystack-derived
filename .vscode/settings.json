@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.inc": "c",
+        "string.h": "c",
+        "haystack-derived.h": "c"
+    },
+    "C_Cpp.default.includePath": [
+        "deps/b64.c",
+        "deps/micro-ecc",
+        "deps/sha-2"
+    ]
+}
